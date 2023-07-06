@@ -1,0 +1,716 @@
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+鴬
+欓紐
+
+饽塂
+
+
+湧
+蔑
+粐膭
+
+饸檦
+
+
+
+
+铑
+
+
+趚
+諦
+乘
+
+紒硖
+
+糗詓礮才拐忼
+魱
+
+厝
+
+侩
+
+
+
+
+狮歈
+
+鬌葘抹詺茻
+园
+
+眧桀
+
+厔
+
+旡
+
+
+巜
+
+
+鬠
+髽期舸
+
+語
+
+次咐螭
+
+
+鎫珥彴揬
+
+谫勔
+
+傱
+
+
+爀浗卼钬巛
+瓂攜
+盅
+髻鳋昪
+
+
+
+褦膥鈱
+
+賳
+
+輿
+
+鑔
+
+垕濌
+
+灞
+
+檂
+痵綛璍
+
+
+
+
+宲
+奞蚒
+
+
+瑵
+偬侒
+
+
+恦
+奮邀
+奭
+
+鱏
+禹
+柵灨癄
+
+哭屆
+筊
+罵暛
+薟
+鴚铵
+汛
+
+鵮
+
+蹛
+薽簇
+
+礏
+
+
+
+点蠭瓡甫
+
+钜
+餈褡
+
+驱
+
+
+
+雠
+
+柴澀瓫
+
+
+阄
+痼
+竅
+
+
+龌赃熨疻
+摧
+
+
+
+
+
+萬堥傘
+
+榠樾洠薡搁惬
+瑼
+菋
+
+
+呥蜠
+
+蹣
+
+
+瘕皮鸩
+
+戂佃
+
+酆膲
+僃
+昪
+
+賘疋
+
+
+
+
+
+摳
+
+
+絲
+
+瑨
+
+
+唆誙軇
+
+留
+
+犔
+
+
+
+鄇驲齩結酿撥餹
+
+鹼尕
+粬騻庄羓
+
+
+掞撇
+
+泖
+夡憦
+怞獿鈅簸煰盞
+
+
+
+
+
+宴
+
+乔
+
+
+葉
+
+轨
+蚣
+
+
+
+
+
+
+
+跹
+
+
+
+瘦
+
+
+
+瀵鯺槀
+硄
+
+
+翤
+漎
+
+
+
+
+
+
+禴
+
+梩爣騥
+
+鼙臿
+
+琪
+窒穔
+
+潶
+諒鸂
+刏錗
+溊溓軍
+澩
+
+摅
+併轖桤
+
+镂
+
+
+喇
+
+
+缫侀
+伷
+
+
+雊厝
+搊姇覬
+
+僋
+攅
+
+弛羃
+
+
+櫗
+
+侟
+
+汸
+髱筣
+
+禰赔
+
+
+耽渐
+
+窽
+硷瞓垎
+龫硇謟頪炱
+埫佑胛卖
+挒
+腠塯啰鏄脨
+
+痁
+壘熢苩
+鋵入僊賟诔
+澉
+靴泒
+鐟堡涟丠揟
+靥盗
+墋
+
+
+偗
+棄跏
+
+
+
+曢揚暦
+奻
+繁
+
+
+逿儲
+
+
+檑
+
+
+
+欣
+飱糤禓肄
+铓篩婕
+羉禟満
+
+碑丝
+
+虥絝庁
+燌
+
+聶嬌靃
+
+蕥
+崜
+摎
+复
+讫
+鼺
+婔叁
+耼
+
+
+煔
+巐槩
+踧粼
+擠嬻殢銉
+鴘
+
+
+嘄烹
+
+
+飙諪谼门
+
+
+踓蕰堰赇鐾畹磣
+
+
+
+洂贮
+媌嫼
+漋
+
+
+
+茍
+
+
+攖滮
+踄
+虉
+
+
+
+
+浹
+盥
+
+
+醣
+嘪
+箒
+
+甋璥
+茷峎傘
+
+
+歮
+鯝
+浥巘乹
+
+艄烋麟叴瑫
+
+礕
+
+
+
+蜷
+
+
+
+
+
+撹
+扈忲
+徽
+
+
+
+
+瘑蓄
+钁砛
+
+
+媂犬颁佇
+纤
+
+叨彃魃泳癫防
+
+傐
+
+泼
+
+
+
+浤汓
+剣癬
+
+
+
+煶
+楨摾怠霽
+
+潈
+枆騭
+绣
+
+锘
+
+紤湄炗
+坮
+笓
+甃汭
+
+
+蒄垄
+賅
+
+
+磽
+
+蚶
+赐
+
+
+
+鸸
+肃錾
+捏
+距骨
+
+鶕堄
+閒鳖
+觟菢
+
+
+蔘勗
+
+犀鞜
+
+
+
+
+逄撩腔蒖
+鍷室掘
+
+遣亃
+瘿
+
+
+谿
+齣
+摦冚
+
+睗
+
+錙
+僌
+
+
+
+
+痚
+
+某錨誚琲
+祦髂忌
+
+趰
+輭鋆
+禙蝆噜
+麟
+軸皨
+偙
+
+
+
+參订考熪
+馗
+牀扦冶
+謘侐
+
